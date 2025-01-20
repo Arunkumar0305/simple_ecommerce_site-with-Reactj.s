@@ -1,0 +1,139 @@
+[
+    {
+        "df":[
+            {
+            "id":72,
+            "name":"ProV California Independence Almonds (2 x 250 g) ",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/kwb07m80/nut-dry-fruit/p/9/e/500-california-pouch-2-prov-original-imag9y9drcceuxme.jpeg",
+            "d-price":"331",
+            "price":"698",
+            "dis":"367",
+            "discount":"52 % OFF",
+            "category":"Dry friuts" 
+            }
+            ,
+            {
+            "id":73,
+            "name":"Nutraj Arabian Premium Dates -500g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/nut-dry-fruit/y/v/l/-original-imagr9yyhvmxubah.jpeg",
+            "d-price":"101",
+            "price":"199",
+            "dis":"98",
+            "discount":"40 % OFF",
+            "category":"Dry friuts" 
+            }
+            ,
+            {
+            "id":74,
+            "name":"ProV Natural Seedless Black Raisins -250g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/kr3tj0w0/nut-dry-fruit/i/1/4/natural-seedless-black-pouch-pro-v-original-imag4yzskb7ndfth.jpeg",
+            "d-price":"107",
+            "price":"249",
+            "dis":"142",
+            "discount":"57 % OFF",
+            "category":"Dry friuts" 
+            }
+            ,
+            {
+            "id":75,
+            "name":"Nutraj Recipe Ready Kernels Walnuts  -250g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/nut-dry-fruit/r/a/j/250-recipe-ready-kernels-1-box-nutraj-original-imah26m2suf9ffkw.jpeg",
+            "d-price":"267",
+            "price":"449",
+            "dis":"182",
+            "discount":"40 % OFF",
+            "category":"Dry friuts" 
+            }
+            ,
+            {
+            "id":76,
+            "name":"ProV Pistachios (Pista)  (250 g)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/kr3tj0w0/nut-dry-fruit/b/b/l/na-pouch-prov-original-imag4yzsmauhpwyg.jpeg",
+            "d-price":"267",
+            "price":"449",
+            "dis":"182",
+            "discount":"40 % OFF",
+            "category":"Dry friuts" 
+            }
+            ,
+            {
+            "id":77,
+            "name":"Nutraj Fig Figs (aththi)  (250 g)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/nut-dry-fruit/b/d/h/250-fig-1-pouch-nutraj-original-imagwzv5d4bkjdzs.jpeg",
+            "d-price":"331",
+            "price":"449",
+            "dis":"118",
+            "discount":"26 % OFF",
+            "category":"Dry friuts" 
+            }
+        ]
+    },{
+        "sweet":[
+            {
+            "id":78,
+            "name":"SWAD Shahi Gulab Jamun Tin  (1 kg)",
+            "pic":"https://rukminim2.flixcart.com/image/612/612/xif0q/sweet-mithai/y/n/a/1-shahi-gulab-jamun-1-gulab-jamun-swad-original-imah5raudrdngfug.jpeg",
+            "d-price":"205",
+            "price":"360",
+            "dis":"155",
+            "discount":"43 % OFF",
+            "category":"Sweet"  
+            }
+            ,
+            {
+            "id":79,
+            "name":"SWAD Shahi Rasgulla Tin  (1 kg)",
+            "pic":"https://rukminim2.flixcart.com/image/612/612/xif0q/sweet-mithai/6/q/a/1-shahi-rasgulla-1-rasgulla-swad-original-imah5rauxhnzyyyx.jpeg",
+            "d-price":"205",
+            "price":"360",
+            "dis":"155",
+            "discount":"43 % OFF",
+            "category":"Sweet"  
+            }
+            ,
+            {
+            "id":80,
+            "name":"Lal Mysore Pak Box  (2 x 200 g)",
+            "pic":"https://rukminim2.flixcart.com/image/612/612/xif0q/sweet-mithai/h/h/0/400-sweets-mysore-pak-200g-x-2-pack-400g-indian-sweets-pure-cow-original-imagr5whzcps3vdz.jpeg",
+            "d-price":"338",
+            "price":"699",
+            "dis":"361",
+            "discount":"51 % OFF",
+            "category":"Sweet"  
+            }
+            ,
+            {
+            "id":81,
+            "name":"Haldiram's Soan Papdi (3 x 250 g)",
+            "pic":"https://rukminim2.flixcart.com/image/612/612/kgv5x8w0/sweet-mithai/r/4/r/750-soan-papdi-regular-pack-of-3-soan-papdi-haldiram-s-original-imafwzun6mgfwd6x.jpeg",
+            "d-price":"180",
+            "price":"210",
+            "dis":"30",
+            "discount":"31 % OFF",
+            "category":"Sweet"  
+            }
+            ,
+            {
+            "id":82,
+            "name":"Haldiram's Kaju Katli Box  (500 g)",
+            "pic":"https://rukminim2.flixcart.com/image/612/612/kgv5x8w0/sweet-mithai/h/w/x/500-kaju-katli-kaju-katli-haldiram-s-original-imafwzusvpnghhnp.jpeg",
+            "d-price":"421",
+            "price":"580",
+            "dis":"160",
+            "discount":"42 % OFF",
+            "category":"Sweet"  
+            }
+            ,
+            {
+            "id":83,
+            "name":"Haldiram's Kaju Katli Box  (500 g)",
+            "pic":"https://rukminim2.flixcart.com/image/612/612/xif0q/shopsy-sweet-mithai/0/3/j/400-motichoor-ladoo-celebrate-with-sweetness-luxury-in-every-original-imah6gycy2gx6q5c.jpeg",
+            "d-price":"150",
+            "price":"230",
+            "dis":"80",
+            "discount":"35 % OFF",
+            "category":"Sweet"  
+            }
+        ]
+    }
+]

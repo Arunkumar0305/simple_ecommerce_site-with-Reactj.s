@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Federant&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Shadows+Into+Light&display=swap');
+.navbar{
+    width: 100%;
+    height: 60px;
+    background-image: linear-gradient(180deg, rgb(0, 103, 105), rgb(64, 165, 120));
+    display: flex;
+    align-items: center;
+}
+.logo{
+    padding: 0 20px;
+}
+
+.c {
+    font-size: 30px;
+    font-family: "Federant",serif;
+    color: rgb(230, 255, 148);
+    font-weight:700;
+    padding-right: 5px;
+    text-shadow: 2px 1px black;
+    /* filter: drop-shadow(0 0 2px black ); */
+}
+.b {
+    font-size: 25px;
+    font-family: "Federant",serif;
+    color: rgb(248, 122, 83);
+    font-weight: 700;
+    text-shadow: 2px 1px black;
+
+    /* filter: drop-shadow(0 0 10px white ); */
+
+}
+
+.cartno{
+    background: white;
+    text-decoration: none;
+    border-radius: 50%;
+    padding-left: 4px;
+    color: black;
+    width: 15px;
+    height: 15px;
+    display: inline-block;
+    font-size: 12px;
+    font-weight: bold;
+}
+    

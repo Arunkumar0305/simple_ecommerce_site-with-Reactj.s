@@ -1,0 +1,113 @@
+[
+    {
+        "id":11,
+        "name":"Lipton Green tea stawberry - 150g",
+        "pic":"https://i.pinimg.com/736x/20/8a/70/208a70e9eb7a7b374db119b803aeb785.jpg",
+        "d-price":"200",
+        "price":"250",
+        "dis":50,
+        "discount":"20 % OFF",
+        "category":"Beverages"
+    },
+    {
+        "id":12,
+        "name":"Soan papdi haldiram - 250g",
+        "pic":"https://i.pinimg.com/736x/12/98/d8/1298d85dfbb5907892e91596d8b24a20.jpg",
+        "d-price":"170",
+        "price":"200",
+        "dis":30,
+        "discount":"15 % OFF",
+        "category":"Snacks"
+    },
+    {
+        "id":13,
+        "name":"Korean noodles raman flavour - 100g",
+        "pic":"https://i.pinimg.com/736x/0b/a8/78/0ba878e51480ce7fbff4a1da3a54fd2d.jpg",
+        "d-price":"75",
+        "price":"100",
+        "dis":75,
+        "discount":"25 % OFF",
+        "category":"Snacks"  
+    },
+    {
+        "id":14,
+        "name":"Rusk parle premium rusk -150g",
+        "pic":"https://i.pinimg.com/736x/5e/a5/27/5ea527709830f2872c185be67807e77f.jpg",
+        "d-price":"72",
+        "price":"90",
+        "dis":18,
+        "discount":"25 % OFF",
+        "category":"Dairy & Bakery" 
+    },
+    {
+        "id":15,
+        "name":"Cashews with coconut powder -160g",
+        "pic":"https://i.pinimg.com/736x/4d/96/c9/4d96c9969ef7b38ee05d262d66857207.jpg",
+        "d-price":"126",
+        "price":"189",
+        "dis":54,
+        "discount":"10 % OFF",
+        "category":"Snacks" 
+    },
+    {
+        "id":16,
+        "name":"Bingo Mad Angles peri peri flavour -50g",
+        "pic":"https://i.pinimg.com/736x/06/e4/29/06e42930c10a8aa63a4b3f17cf11497d.jpg",
+        "d-price":"9",
+        "price":"10",
+        "dis":1,
+        "discount":"10 % OFF",
+        "category":"Snacks" 
+    },
+    {
+        "id":17,
+        "name":"Tomato Ketchup Kissan -500ml",
+        "pic":"https://i.pinimg.com/736x/85/c6/a1/85c6a1f73b09c24ddf77dab6c908aa75.jpg",
+        "d-price":"120",
+        "price":"199",
+        "dis":79,
+        "discount":"40 % OFF",
+        "category":"Snacks" 
+    },
+    {
+        "id":18,
+        "name":"Bru instant Coffee -100g ",
+        "pic":"https://i.pinimg.com/736x/04/05/e9/0405e900cf4c2e2d6be358cd0fe20a37.jpg",
+        "d-price":"228",
+        "price":"350",
+        "dis":122,
+        "discount":"35 % OFF",
+        "category":"Beverages" 
+    },
+    {
+      "id":19,
+      "name":"Chickpea Snacks Biena - 142g",
+      "pic":"https://i.pinimg.com/736x/8c/4f/69/8c4f69b356ca05967e55455d30736cfa.jpg",
+      "d-price":"96",
+      "price":"159",
+      "dis":63,
+      "discount":"40 % OFF",
+      "category":"Snacks"
+    },
+    {
+        "id":20,
+      "name":"Brown Sugar organic - 680g",
+      "pic":"https://i.pinimg.com/736x/6d/4e/12/6d4e12cf540e1e91693a0883bbac7db0.jpg",
+      "d-price":"135",
+      "price":"179",
+      "dis":44,
+      "discount":"12 % OFF",
+      "category":"Foodgrains,oil & masala"
+    },
+    {
+    "id":21,
+    "name":"Maggi Hot Heads spicy curry -6pcs/180g ",
+    "pic":"https://i.pinimg.com/736x/e7/2b/31/e72b3133b3943f379e7282f7571b8961.jpg",
+    "d-price":"300",
+    "price":"599",
+    "dis":299,
+    "discount":"50 % OFF",
+    "category":"Snacks"
+    }
+    
+]

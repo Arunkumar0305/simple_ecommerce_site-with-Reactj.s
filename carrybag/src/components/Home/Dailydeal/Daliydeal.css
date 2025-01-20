@@ -1,0 +1,26 @@
+.card img{
+    height: 8rem;
+    transform: scale(0.8);
+
+}
+.off span{
+  font-size: 14px;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.off{
+  background: rgb(244, 155, 22);
+ width: 50%; 
+ border-bottom-right-radius: 20px;
+
+}
+.btn1{
+  background: rgb(243, 201, 62);
+}
+.btn1:hover{
+  background: rgb(219, 169, 5);
+
+}
+.swiper{
+  height: 350px;
+}

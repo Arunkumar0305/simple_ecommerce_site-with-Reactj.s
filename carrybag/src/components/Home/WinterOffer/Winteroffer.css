@@ -1,0 +1,10 @@
+.offimg{
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
+
+.accordion-button:not(.collapsed){
+    color: black;
+   
+}

@@ -1,0 +1,102 @@
+[
+    {
+        "id":1,
+        "pic":"https://i.pinimg.com/736x/67/58/7e/67587e262fb2d5a63cc0161a245a5c03.jpg",
+        "d-price":48.00,
+        "price":60.00,
+        "dis":12,
+        "name":"Sugar Delight pure-sugarcane -500g",
+        "discount":"20 % OFF ",
+        "category":"Foodgrain,Oil & Masala"
+    },
+    {
+        "id":2,
+        "pic":"https://i.pinimg.com/736x/bc/35/08/bc3508a3a83e4dd96438ac060ef73b16.jpg",
+        "d-price":68.00,
+        "price":80.00,
+        "dis":12,
+        "name":"Everest Sambar masala -100g",
+        "discount":"15 % OFF",
+        "category":"Foodgrain,Oil & Masala"
+    },
+    {
+        "id":3,
+        "pic":"https://i.pinimg.com/736x/1d/3e/7c/1d3e7c7e447dd39360f463d616a2a265.jpg",
+        "d-price":48.00,
+        "price":60.00,
+        "dis":12,
+        "name":"Everest Tikhala Chillpowder -100g",
+        "discount":"20 % OFF ",
+        "category":"Foodgrain,Oil & Masala"
+    },
+    {
+        "id":4,
+        "pic":"https://i.pinimg.com/736x/99/c4/e2/99c4e27f77e2770272f8f1eff9d2e440.jpg",
+        "d-price":48.00,
+        "price":60.00,
+        "dis":12,
+        "name":"Aachi turmeric power -200g",
+        "discount":"20 % OFF",
+        "category":"Foodgrain,Oil & Masala"
+    },
+    {
+        "id":5,
+        "pic":"https://i.pinimg.com/736x/6b/0e/8e/6b0e8eec76b4374f9ca869b769362eb8.jpg",
+        "d-price":36.00,
+        "price":45.00,
+        "dis":6,
+        "name":"Aachi Coriander powder - 100g",
+        "discount":"15 % OFF",
+        "category":"Foodgrain,Oil & Masala"
+    },
+    {
+        "id":6,
+        "pic":"https://i.pinimg.com/736x/4c/9d/47/4c9d4725608a9357d5587b0f149f64c7.jpg",
+        "d-price":20.00,
+        "price":22.00,
+        "dis":2,
+        "name":"Sakthi Super Garam masala - 50g",
+        "discount":"10 % OFF",
+        "category":"Foodgrain,Oil & Masala"
+    },
+    {
+        "id":7,
+        "pic":"https://i.pinimg.com/736x/33/a4/38/33a4388bb52a2e9935d2407d5ec0f3c4.jpg",
+        "d-price":68.00,
+        "price":80.00,
+        "dis":12,
+        "name":"Tata Sampann Chana Dal - 500g",
+        "discount":"15 % OFF",
+        "category":"Foodgrain,Oil & Masala"
+    },
+    {
+        "id":8,
+        "pic":"https://i.pinimg.com/736x/f2/23/e9/f223e9e43d9ec16d772655c767026778.jpg",
+        "d-price":187.00,
+        "price":249.00,
+        "dis":62,
+        "name":"Aashirvaad Wheat Flour - 500g",
+        "discount":"25 % OFF",
+        "category":"Foodgrain,Oil & Masala"
+    },
+    {
+        "id":9,
+        "pic":"https://i.pinimg.com/736x/4c/11/fa/4c11fae35702172722c76ec25c5b3334.jpg",
+        "d-price":48.00,
+        "price":60.00,
+        "dis":12,
+        "name":"Madam Maida refined flour - 500g",
+        "discount":"10 % OFF",
+        "category":"Foodgrain,Oil & Masala"
+    },
+    {
+        "id":10,
+        "pic":"https://i.pinimg.com/736x/1a/51/0f/1a510ff65585fddc43b1dd631dc6d46c.jpg",
+        "d-price":68.00,
+        "price":80.00,
+        "dis":12,
+        "name":"Tata Salt crystal-clear -250g ",
+        "discount":"20 % OFF",
+        "category":"Foodgrain,Oil & Masala"
+    }
+]

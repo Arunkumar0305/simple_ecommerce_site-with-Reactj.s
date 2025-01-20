@@ -1,0 +1,573 @@
+[
+    {
+        "fit":
+        [
+        {
+            "id":22,
+            "name":"Organic Tattva Super Grains Quinoa  (0.5 kg)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/kziqvm80/grain-millet/l/y/s/-original-imagbgg7tf9jgdnb.jpeg",
+            "d-price":"232",
+            "price":"290",
+            "dis":58,
+            "discount":"20 % OFF",
+            "category":"Foodgrains,oil & Masala"
+        },
+        {
+            "id":23,
+            "name":"Papas pure little millet -500g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/grain-millet/s/s/8/500-na-1-little-millet-papas-pure-original-imagvq5ydqzztgbn.jpeg",
+            "d-price":"60",
+            "price":"120",
+            "dis":60,
+            "discount":"50 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":24,
+            "name":"INDIA GATE Quinoa -200g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/k0wqwsw0/grain-millet/e/b/f/200-na-quinoa-india-gate-original-imafkhqs7gc9m8rm.jpeg",
+            "d-price":"72",
+            "price":"103",
+            "dis":30,
+            "discount":"30 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":25,
+            "name":"Varalakshmi premium sago -500g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/kp2y2kw0/grain-millet/z/0/j/500-tapioca-premium-sago-varalakshmi-original-imag3e9vpnh5fprs.jpeg",
+            "d-price":"53",
+            "price":"75",
+            "dis":22,
+            "discount":"30 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":26,
+            "name":"Mr.Gold Sunflower Oil -1L",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/knoxnrk0/edible-oil/u/u/w/refined-sunflower-oil-pouch-sunflower-oil-mr-gold-original-imag2bbvf9ycbqms.jpeg",
+            "d-price":"139",
+            "price":"170",
+            "dis":30,
+            "discount":"18 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":27,
+            "name":"FORTUNE refined Oil -1L",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/kflftzk0hlty2aw-0/edible-oil/j/a/d/sunlite-refined-pouch-sunflower-oil-fortune-original-imafw33uhwkebr5j.jpeg",
+            "d-price":"144",
+            "price":"185",
+            "dis":40,
+            "discount":"22 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":28,
+            "name":"Mr.Gold Groundnut Oil -1L",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/knni7ww0/edible-oil/p/h/q/1-na-pouch-groundnut-oil-mr-gold-original-imag2abxkjry6urw.jpeg",
+            "d-price":"193",
+            "price":"225",
+            "dis":31,
+            "discount":"14 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":29,
+            "name":"Saffola Active Rice brand Oil -1L",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/edible-oil/w/i/z/-original-imah393py2mau79a.jpeg",
+            "d-price":"154",
+            "price":"185",
+            "dis":31,
+            "discount":"16 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":30,
+            "name":"FORTUNE refined Oil -5L",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/kqidx8w0/edible-oil/p/p/2/na-can-rice-bran-oil-fortune-original-imag4gb3m2xcverm.jpeg",
+            "d-price":"959",
+            "price":"999",
+            "dis":50,
+            "discount":"5 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":31,
+            "name":"Mr.Gold Groundnut Oil -5L",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/knni7ww0/edible-oil/1/f/n/5-na-can-sunflower-oil-mr-gold-original-imag2abvgg6hwc8b.jpeg",
+            "d-price":"700",
+            "price":"825",
+            "dis":125,
+            "discount":"15 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":32,
+            "name":"Aachi Chicken Masala -100g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/j63x7rk0/spice-masala/h/6/u/100-tandoori-chicken-masala-powder-box-aachi-powder-original-imaewnc5gjs86hpu.jpeg",
+            "d-price":"35",
+            "price":"50",
+            "dis":14,
+            "discount":"28 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":33,
+            "name":"Aachi Biryani Masala -50g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/spice-masala/9/l/k/-original-imagu7ybh9a3f55g.jpeg",
+            "d-price":"30",
+            "price":"38",
+            "dis":8,
+            "discount":"21 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":34,
+            "name":"Sakthi Chicken Masala -100g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/jl8bzbk0/spice-masala/e/d/k/100-chicken-masala-pouch-sakthi-powder-original-imaf8e6npcqxzctb.jpeg",
+            "d-price":"38",
+            "price":"52",
+            "dis":14,
+            "discount":"26 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ,
+        {
+            "id":35,
+            "name":"Sakthi mutton Masala -100g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/edible-oil/w/i/z/-original-imah393py2mau79a.jpeg",
+            "d-price":"38",
+            "price":"52",
+            "dis":14,
+            "discount":"20 % OFF",
+            "category":"Foodgrains,oil & masala"
+        }
+        ]
+    },
+    {
+      "dairy":[
+        {
+            "id":36,
+            "name":"Smoodh Flavoured milk -80ml",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/milk/z/b/q/-original-imagnrmqahjhaczx.jpeg",
+            "d-price":"8",
+            "price":"10",
+            "dis":2,
+            "discount":"20 % OFF",
+            "category":"Dairy & Bakery"
+        },
+        {
+            "id":37,
+            "name":"Amul Taaza Homogenised Toned Milk -1L",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/kqe3low0/milk/g/x/h/taaza-homogenised-toned-milk-tetrapack-toned-amul-original-imag4ethfyz9ymzt.jpeg",
+            "d-price":"71",
+            "price":"74",
+            "dis":3,
+            "discount":"4 % OFF",
+            "category":"Dairy & Bakery"
+        },
+        {
+            "id":38,
+            "name":"BRITANNIA Winkin Cow Milk Shake  (Vanilla, 180 ml)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/milk/g/r/m/180-winkin-cow-flavoured-milk-plastic-bottle-flavored-britannia-original-imagh2g97ztyddef.jpeg",
+            "d-price":"25",
+            "price":"35",
+            "dis":10,
+            "discount":"28 % OFF",
+            "category":"Dairy & Bakery"
+        },
+        {
+            "id":39,
+            "name":"BRITANNIA Winkin Cow Milk Shake  (Chocolate, 180 ml)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/milk/d/6/o/180-winkin-cow-flavoured-milk-plastic-bottle-flavored-britannia-original-imagh2gcsckgk9gv.jpeg",
+            "d-price":"25",
+            "price":"35",
+            "dis":10,
+            "discount":"28 % OFF",
+            "category":"Dairy & Bakery"
+        },
+        {
+            "id":40,
+            "name":"BRITANNIA Winkin Cow Milk Shake  (Stawberry, 180 ml)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/milk/s/n/p/180-winkin-cow-flavoured-milk-plastic-bottle-flavored-britannia-original-imagh2gazdutftmk.jpeg",
+            "d-price":"25",
+            "price":"35",
+            "dis":10,
+            "discount":"28 % OFF",
+            "category":"Dairy & Bakery"
+        },
+        {
+            "id":41,
+            "name":"NESTLE Milkmaid Mini -210g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/milk/s/i/o/210-milkmaid-mini-pouch-condensed-nestle-original-imagz8um3amrbvhy.jpeg",
+            "d-price":"84",
+            "price":"89",
+            "dis":5,
+            "discount":"5 % OFF",
+            "category":"Dairy & Bakery"
+        },
+        {
+            "id":42,
+            "name":"Milky Mist Spiced Buttermilk -180ml",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/milk/s/i/o/210-milkmaid-mini-pouch-condensed-nestle-original-imagz8um3amrbvhy.jpeg",
+            "d-price":"18",
+            "price":"20",
+            "dis":2,
+            "discount":"10 % OFF",
+            "category":"Dairy & Bakery"
+        },
+        {
+            "id":43,
+            "name":"Amul High Aroma Cow Ghee Ghee -500ml",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/juzuavk0/ghee/s/x/e/500-high-aroma-cow-plastic-bottle-amul-original-imaffzksbdzpzmm7.jpeg",
+            "d-price":"335",
+            "price":"355",
+            "dis":20,
+            "discount":"5 % OFF",
+            "category":"Dairy & Bakery"
+        }
+        ,
+        {
+            "id":44,
+            "name":"rkg Agmark Ghee -500ml",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/kuyf8nk0/ghee/m/m/e/500-agmark-plastic-bottle-1-rkg-original-imag7ygq8gmnjfsm.jpeg",
+            "d-price":"415",
+            "price":"446",
+            "dis":31,
+            "discount":"6 % OFF",
+            "category":"Dairy & Bakery"
+        }
+        ,
+        {
+            "id":45,
+            "name":"GRB Cow Ghee -200ml",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/l22724w0/ghee/l/5/v/200-cow-1-plastic-bottle-grb-original-imagdhrkky695gs4.jpeg",
+            "d-price":"165",
+            "price":"182",
+            "dis":17,
+            "discount":"9 % OFF",
+            "category":"Dairy & Bakery"
+        }
+        ,
+        {
+            "id":46,
+            "name":"Amul Pasteurised Salted Butter -100g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/butter/v/m/3/-original-imagkjwdn2fe6grb.jpeg",
+            "d-price":"56",
+            "price":"58",
+            "dis":2,
+            "discount":"3 % OFF",
+            "category":"Dairy & Bakery"
+        }
+        ,
+        {
+            "id":47,
+            "name":"Milky Mist Cooking Pasteurised Unsalted Butter -200g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/jmawvbk0/butter/c/6/8/200-cooking-pasteurised-milky-mist-original-imaf97z3e6uz5ngh.jpeg",
+            "d-price":"118",
+            "price":"138",
+            "dis":20,
+            "discount":"14 % OFF",
+            "category":"Dairy & Bakery"
+        }
+        ,
+        {
+            "id":48,
+            "name":"Amul Unsalted Butter -100g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/butter/0/q/q/-original-imagrn9tghgdbpuk.jpeg",
+            "d-price":"60",
+            "price":"62",
+            "dis":2,
+            "discount":"3 % OFF",
+            "category":"Dairy & Bakery"
+        }
+      ]
+    },
+    {
+      "snack":[
+        {
+            "id":49,
+            "name":"Modern Kitchens Butter Murukku -150g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/snack-savourie/k/f/l/-original-imaghe4h336gyw5s.jpeg",
+            "d-price":"51",
+            "price":"65",
+            "dis":14,
+            "discount":"21 % OFF",
+            "category":"Snacks"
+        }
+        ,
+        {
+            "id":50,
+            "name":"Modern Kitchens Potato Mixture -150g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/snack-savourie/x/8/e/-original-imagy2e2v46zhbkf.jpeg",
+            "d-price":"57",
+            "price":"70",
+            "dis":13,
+            "discount":"18 % OFF",
+            "category":"Snacks"
+        }
+        ,
+        {
+            "id":51,
+            "name":"CHERA'S DIAMOND BISCUIT (mixture) -125g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/snack-savourie/o/s/j/-original-imah42gkgm3whgth.jpeg",
+            "d-price":"33",
+            "price":"45",
+            "dis":12,
+            "discount":"26 % OFF",
+            "category":"Snacks"
+        }
+        ,
+        {
+            "id":52,
+            "name":"ProV Mini Almonds Roasted and Salted -18g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/snack-savourie/p/r/6/18-mini-cashew-roasted-and-salted-1-pouch-prov-original-imagk2yutscg6def.jpeg",
+            "d-price":"28",
+            "price":"30",
+            "dis":2,
+            "discount":"6 % OFF",
+            "category":"Snacks"
+        }
+        ,
+        {
+            "id":53,
+            "name":"Tasty Crispy Masala Coated Peanuts -400g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/snack-savourie/k/u/m/-original-imah4m4xphpff2s6.jpeg",
+            "d-price":"28",
+            "price":"192",
+            "dis":110,
+            "discount":"57 % OFF",
+            "category":"Snacks"
+        }
+        ,
+        {
+            "id":54,
+            "name":"Bikano Aloo Bhujia (mixture) -1kg",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/snack-savourie/p/r/z/-original-imah5h8ntgrzvhx8.jpeg",
+            "d-price":"163",
+            "price":"272",
+            "dis":110,
+            "discount":"40 % OFF",
+            "category":"Snacks"
+        }
+      ]
+    },
+    {
+        "beverage":[
+            {
+            "id":55,
+            "name":"Thums Up Plastic Bottle  (8 x 250 ml)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/aerated-drink/g/c/m/-original-imahfmcjadybvhkj.jpeg",
+            "d-price":"152",
+            "price":"160",
+            "dis":"8",
+            "discount":"5 % OFF",
+            "category":"Beverages"
+            }
+            ,
+            {
+            "id":56,
+            "name":"Boost Nutrition Drink (2 x 0.5 kg)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/milk-drink-mix/z/c/w/-original-imah2kzqx2dghapz.jpeg",
+            "d-price":"459",
+            "price":"610",
+            "dis":"150",
+            "discount":"24 % OFF",
+            "category":"Beverages"
+            }
+            ,
+            {
+            "id":57,
+            "name":"7UP Soft Drink PET Bottle  (2250 ml)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/aerated-drink/q/0/z/-original-imah25879xgrcsjg.jpeg",
+            "d-price":"65",
+            "price":"100",
+            "dis":"35",
+            "discount":"35 % OFF",
+            "category":"Beverages"
+            }
+            ,
+            {
+            "id":58,
+            "name":"Maaza Mango  (1.2 L)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/l3hmwsw0/drinks-juice/t/1/w/-original-imagehgyvbbxtsgr.jpeg",
+            "d-price":"57",
+            "price":"75",
+            "dis":"18",
+            "discount":"24 % OFF",
+            "category":"Beverages"
+            }
+            ,
+            {
+            "id":59,
+            "name":"Minute Maid Pulpy Orange Juice (1L)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/drinks-juice/0/d/u/-original-imagqh7c4uwzakjb.jpeg",
+            "d-price":"68",
+            "price":"90",
+            "dis":"22",
+            "discount":"24 % OFF",
+            "category":"Beverages"
+            }
+            ,
+            {
+            "id":60,
+            "name":"Minute Maid Pulpy Orange Juice (1L)",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/milk-drink-mix/m/a/q/-original-imagx8hzptm7sjmw.jpeg",
+            "d-price":"277",
+            "price":"320",
+            "dis":"53",
+            "discount":"13 % OFF",
+            "category":"Beverages"
+            }
+        ]
+    },
+    {
+        "ff":[
+            {
+            "id":61,
+            "name":"Mc Cam masala fries 250g",
+            "pic":"https://i.pinimg.com/736x/41/a1/60/41a160627df3a960cc7ee067a268c973.jpg",
+            "d-price":"100",
+            "price":"120",
+            "dis":"20",
+            "discount":"20 % OFF",
+            "category":"FRozen food" 
+            },
+            {
+            "id":62,
+            "name":"Tyson Fun Nuggets 500g",
+            "pic":"https://i.pinimg.com/736x/db/a2/57/dba257fc913e004b00b031b1f1a8569c.jpg",
+            "d-price":"150",
+            "price":"170",
+            "dis":"20",
+            "discount":"20 % OFF",
+            "category":"FRozen food" 
+            }
+            ,
+            {
+            "id":63,
+            "name":"Tyson chicken Fun Nuggets 500g",
+            "pic":"https://i.pinimg.com/736x/6e/92/97/6e92973ccd90c752515cbb82fbba462d.jpg",
+            "d-price":"180",
+            "price":"210",
+            "dis":"30",
+            "discount":"30 % OFF",
+            "category":"FRozen food" 
+            }
+            ,
+            {
+            "id":64,
+            "name":"Shazans 20 chicken Rolls -500g",
+            "pic":"https://i.pinimg.com/736x/6e/92/97/6e92973ccd90c752515cbb82fbba462d.jpg",
+            "d-price":"180",
+            "price":"200",
+            "dis":"20",
+            "discount":"20 % OFF",
+            "category":"FRozen food" 
+            }
+            ,
+            {
+            "id":65,
+            "name":"Dawn Chicken cheese samosa -500g",
+            "pic":"https://i.pinimg.com/736x/e0/d1/b6/e0d1b69efdaad3f4472fda0bd1e4eb13.jpg",
+            "d-price":"180",
+            "price":"200",
+            "dis":"20",
+            "discount":"20 % OFF",
+            "category":"FRozen food" 
+            }
+            ,
+            {
+            "id":66,
+            "name":"cheese crispy fries -500g",
+            "pic":"https://i.pinimg.com/736x/e0/d1/b6/e0d1b69efdaad3f4472fda0bd1e4eb13.jpg",
+            "d-price":"150",
+            "price":"200",
+            "dis":"50",
+            "discount":"50 % OFF",
+            "category":"FRozen food" 
+            }
+        ]
+    },
+    {
+        "hk":[
+            {
+            "id":67,
+            "name":"Hand Slip kitchen cleanner -500g",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/l1tmf0w0/mop-cleaning-wipe/a/k/c/1-hand-held-wet-dry-kitchen-glass-wiper-flipkart-smartbuy-na-original-imagdb42ycrg57yc.jpeg",
+            "d-price":"41",
+            "price":"249",
+            "dis":"208",
+            "discount":"83 % OFF",
+            "category":"Home & kitchen" 
+            }
+            ,
+            {
+            "id":68,
+            "name":"Scotch-Brite Microfiber Kitchen Wipe ",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/cleaning-cloth/v/r/e/-original-imagu4xfhthzgy5h.jpeg",
+            "d-price":"133",
+            "price":"199",
+            "dis":"68",
+            "discount":"33 % OFF",
+            "category":"Home & kitchen" 
+            }
+            ,
+            {
+            "id":69,
+            "name":"Stainless Steel Net Tea Strainer ",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/l15bxjk0/colander-sieve-strainer/f/l/e/no-yes-big-strainer-staineless-steel-net-flipkart-smartbuy-original-imagcsfp8vzvsmhr.jpeg",
+            "d-price":"26",
+            "price":"100",
+            "dis":"78",
+            "discount":"70 % OFF",
+            "category":"Home & kitchen" 
+            }
+            ,
+            {
+            "id":70,
+            "name":"Lizol Disinfectant Power Spray Kitchen Cleaner  ",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/xif0q/kitchen-surface-cleaner/f/u/f/-original-imagqahxfwyk4zq4.jpeg",
+            "d-price":"177",
+            "price":"298",
+            "dis":"123",
+            "discount":"40 % OFF",
+            "category":"Home & kitchen" 
+            }
+            ,
+            {
+            "id":71,
+            "name":"Kitchen Lighter Plastic (Steel, Pack of 1) ",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/k7gikcw0/gas-lighter/c/g/v/h-e-01-macarize-original-imafppa8srqpdphx.jpeg",
+            "d-price":"41",
+            "price":"150",
+            "dis":"110",
+            "discount":"50 % OFF",
+            "category":"Home & kitchen" 
+            }
+            ,
+            {
+            "id":72,
+            "name":"Kitchen Lighter Plastic (Steel, Pack of 1) ",
+            "pic":"https://rukminim2.flixcart.com/image/280/280/k41mp3k0/chopper/9/w/d/ach0-macarize-original-imafmxztwrdhegya.jpeg",
+            "d-price":"87",
+            "price":"200",
+            "dis":"113",
+            "discount":"54 % OFF",
+            "category":"Home & kitchen" 
+            }
+        ]
+    }
+]
